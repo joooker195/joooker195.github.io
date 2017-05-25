@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Engine",
+    "amount":10,
+    "price":122,
+    "isBY":"No",
+    "comment":"супер товар",
+    "Category":"ForCar"
+  },
+  {
+    "name": "Water",
+    "amount":2,
+    "price":22,
+    "isBY":"No",
+    "comment":"супер вода",
+    "Category":"For children"
+
+  },
+  {
+    "name": "Keyboard",
+    "amount":-1,
+    "price":-2,
+    "comment":"супер клавиатура",
+    "isBY":"yes",
+    "Category":"For Developers"
+  }
+]

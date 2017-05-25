@@ -1,0 +1,1 @@
+function addItem(a){console.log(a)}
