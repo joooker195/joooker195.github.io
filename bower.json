@@ -25,7 +25,11 @@
     "iron-label": "PolymerElements/iron-label#^2.0.0",
     "paper-fab": "PolymerElements/paper-fab#^2.0.0",
     "paper-card": "PolymerElements/paper-card#^2.0.0",
-    "paper-styles": "PolymerElements/paper-styles#^2.0.0"
+    "paper-styles": "PolymerElements/paper-styles#^2.0.0",
+    "paper-dialog": "PolymerElements/paper-dialog#^2.0.0",
+    "paper-toolbar": "PolymerElements/paper-toolbar#^2.0.0",
+    "paper-listbox": "PolymerElements/paper-listbox#^2.0.0",
+    "iron-elements": "PolymerElements/iron-elements#^1.0.10"
   },
   "devDependencies": {
     "web-component-tester": "^4.0.0"
